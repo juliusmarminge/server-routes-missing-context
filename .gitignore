@@ -1,0 +1,6 @@
+.DS_Store
+.nitro
+.output
+.tanstack
+dist
+node_modules
